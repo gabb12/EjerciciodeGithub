@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: blueviolet;
+    text-align: center;
+}
+.container{
+    width: 100%;
+    height: 80vh;
+    background-color: #981aa3;
+    display: flex;
+    flex-direction: row nowrap;
+    justify-content: center;
+    
+}
+.item{
+    background-color: #d131a9;
+    flex: 30%;
+    margin: 10px;
+    flex-direction: row nowrap;
+
+}
+
